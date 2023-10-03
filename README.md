@@ -35,6 +35,30 @@ You will need the following build tooling installed.
 
 By default, the target AWS account should have the [SLIC Watch](https://github.com/fourTheorem/slic-watch) SAR Application installed. It can be installed by going to _[this page](https://serverlessrepo.aws.amazon.com/applications/eu-west-1/949339270388/slic-watch-app) in the AWS Console. SLIC Watch is used to create alarms and dashboards for our transcription application. If you want to skip this option, just remove the single line referring to the `SlicWatch-v2` macro from the relevant template, [transcript-orchestration/template.yaml](https://github.com/fourTheorem/podwhisperer/blob/cc73c5d4d52dc01f2249a032a9e2186012e24201/transcript-orchestration/template.yaml#L4).
 
+
+## Output
+This is what the final product can look like if set up right and with minimal manual work. This ouput is in JSON format
+```
+{
+  "speakers": {
+    "spk_0": "Eoin",
+    "spk_1": "Luciano"
+  },
+  "segments": [
+    {
+      "speakerLabel": "spk_0",
+      "start": 0,
+      "end": 2.64,
+      "text": " One of the things that's very common for web applications running in the cloud"
+    },
+    {
+      "speakerLabel": "spk_0",
+      "start": 2.64,
+      "end": 4.96,
+      "text": " is that you will need to handle configuration."
+    },
+```
+
 ## Getting Started
 
 You can deploy this complete application to your own AWS account.
