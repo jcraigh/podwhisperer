@@ -1,0 +1,238 @@
+JACK:	I used to work for this company, and I worked on the overnight shift, and they had a parking garage. But the best parking spots were all assigned to management. Not only that; you had to have a special parking garage badge to get in, so I always had to park far away. What really bugged me is that I was on the night shift, and there were only three of us on the night shift. So, it was like the whole parking garage was empty. Well, one day I brought my skateboard to work and was just rolling around in the parking garage during my break, and I rolled up to the mechanical arm that blocked you from getting into the garage, and to my surprise, it opened as I rolled up to it. What?
+
+I waited for it to go down and I tried again, and it opened when I got near it again. What I discovered was that there was a little electronic eye which detected when a car was trying to exit the parking garage, and it would lift the gate to let the car out. Well, I pinpointed exactly where that eye was and just tried to do something like take my shoe off and place it in front of the sensor, and sure enough, that was enough to get the gate to lift up until I moved my shoe. Well, naturally I hopped in the car, drove up to the gate, got out of the car, took my shoe off, put it on the exit sensor, and it raised the gate, and I got back in the car and was able to get through the gate and grab my shoe on the way through, and just park wherever I wanted.
+
+These are true stories from the dark side of the internet.  I’m Jack Rhysider.  This is Darknet Diaries.
+
+In this episode, we’re gonna hear some stories from Jason Haddix.
+
+JASON:	I’ve always been into computers. I think I had my first computer when I was eleven or twelve. I think my parents got it for me for Christmas. It was a 486. Kinda just taught myself ‘cause I was curious about how it worked. A little bit of programming, HTML, and stuff like that.
+
+JACK:	Any dark stuff you were looking into back then or anything that was – maybe your parents wouldn’t be happy you were seeing?
+
+JASON:	Yeah, yeah. So, I mean, when I was in my early, early twenties, a friend of mine wanted a fake ID. We were all, you know, very young and impressionable at the time. So, I went out and a friend of mine was selling fake IDs, and I bought one. Back then it was a hundred and twenty bucks or something like that for a fake ID. I got it eventually. It took a long time for him to get me one. Then when I got it, it was really crappy. I was really upset and I figured hey, I could probably do a better job than this if I just learned it, ‘cause I figured I knew computers and I knew stuff like that. So, I just started Googling – back then it wasn’t really Google, but I just started looking on the internet for resources. So, one of the resources that I fell upon was ShadowCrew, which was probably one of the first darknet forums that was mainstream before the darknet actually existed. It was still the regular web, but it was forums. I started learning how to do everything to do with fake IDs; bought printers and learned how to make my own, and probably a couple for my friends. But it involved asking a lot of questions with the underground then, which was ShadowCrew.
+
+JACK:	Okay, yeah, so Jason was on ShadowCrew, and if you aren’t familiar with ShadowCrew, just go back and listen to the episode just before this, called Gollumfun. While Jason was on ShadowCrew, he was focused on making fake IDs, but he really didn’t sell that many.
+
+JASON:	I mean, I would say I only sold a handful. It was more of a obsession for me to do it better than what I got. I’d say maybe three or four really good ones and a whole bunch of failed ones for my personal use, like just for my friends, really. I wasn’t a distributor even on the forums or rated, but I had shared a couple with people and they were like oh, these are getting really, really good. Mine usually passed, so it wasn’t rocket science, right? It was just having access to the printers, the templates, understanding all that kind of stuff. So yeah, it wasn’t like I was a criminal enterprise that was making a lot of money or anything like that. It was just that I found it really interesting. You could fall into anything; you could fall into a video game or you could fall into some kind of obsession like finishing a project. I had to figure out how to do it, and I did.
+
+JACK:	Then one day he goes onto ShadowCrew’s website and sees it’s been shut down.
+
+JASON:	The picture that they put up there with the dude behind the bars – and said the Secret Service is coming for all of you and a whole bunch of your – and then the indictment came out and a whole bunch of people who – I really only knew their screen names, but had been arrested in multiple countries.
+
+JACK:	Well, this really spooked Jason. People were getting arrested for selling fake IDs on this site, and he was one of the people selling fake IDs there.
+
+JASON:	The bust happened and then the next day I gathered – so, in the process of printing stuff, you have three – usually three different printers, you have laminates, you have stencils, you have powders, you have all kinds of crazy stuff; you have inks. As soon as I had it, I just dumped it in a black trash bag, a couple black trash bags, threw it in my trunk, and drove.
+
+JACK:	He was driving as fast as he could to another city far, far away. His plan was to just throw it all into a dumpster nowhere near where he lived just to get rid of everything.
+
+JASON:	On the way to do that, I actually got pulled over.
+
+JACK:	Jason’s heart was pounding so hard. He didn’t know why the cop pulled him over. Maybe it was for the fake IDs, and all that evidence was in the trunk of his car. The cop walked up to his window and said he was speeding. This was somewhat of a relief, but Jason was still really worried.
+
+JASON:	I just thought he’s gonna ask me to pop my trunk and see all my stuff in the trunk.
+
+JACK:	But the cop didn’t. He just gave Jason a ticket and let him go. Whew, close call. So Jason continued to drive to the next town, this time going a little slower, to get rid of his stuff.
+
+JASON:	Dumped it in the next city in a dumpster with some lighter fluid and lit it all on fire. Yeah, that was probably one of the scariest moments of my life. Like I said, it scared me straight.
+
+JACK:	Hm, that’s interesting, eh? That intimidating post that the Secret Service put up on ShadowCrew’s site was enough to make Jason quit the fake ID scene forever. It’s kind of hard to leave something like that behind. With ShadowCrew, it was like he was let into some inner circle of people, almost like a family. It’s hard to build up something like that and earn that trust just to walk away from it all and start over somewhere else. Well, by this point, Jason had enough knowledge of computers that he knew he wanted to make a career of it. He really liked the challenge of hacking into things, too. So he took some classes and then got a job fixing computers, then became a junior penetration tester. He did that for two years and then got another job doing penetration testing at HP. This is where he was tasked at hacking into companies to see if they were secure.
+
+JASON:	So I started there as a staff penetration tester, did probably a couple hundred pen tests for the Fortune 500, a lot of…
+
+JACK:	A couple hundred; that’s a lot.
+
+JASON:	Yeah, I mean, I’d say I’ve probably done over my career maybe three hundred pen tests – or a little bit less than three hundred pen tests, probably, over the years. But yeah, we did one-week assessments. You had one week for the assessment, one week for the reporting. It was really easy for HP to get those contracts because they already had these big ins through their IT group with these companies. They were selling them printers, they were selling them enterprise software, and then everybody at that time needed – if they were subject to any kind of compliance, they needed a pen test for clients to satisfy compliance. So, they would just go with the people they already had a contract with, which was us. So, I got exposed to a ton of the big, big banks, a ton of big tech companies, big enterprises. I pen tested a lot of stuff.
+
+JACK:	Ah, yes, compliance. I believe to be PCI compliant, it requires that you have to have a penetration test. PCI is Payment Card Industry, so, like MasterCard, American Express. They won’t let you process their credit cards unless you’re PCI compliant, which means you have to have an auditor that comes to your company and analyses your security practices and conducts a penetration test. I guess HP was one of those auditors and offered this service, which is where Jason really honed his skills as a hacker. Now for the most part, Jason focused on network hacking. There’s a few types of penetration testers; there’s physical penetration testers where they physically try to get into a building to see what they can access, but there’s also application pen testing. This is where maybe a software-maker gives their application to you and you try to find a bug with it. Then there’s network penetration testing, and this is where you try to break into a network using a computer, over the internet or whatever.
+
+You might try attacking it from the outside world or you might be actually given permission to come into the network and see what you can get to from inside the company. For instance, the people who work in marketing shouldn’t be allowed to just see everyone’s passwords, right? Someone should test that to see if it’s truly secure. Jason did a few physical pen tests and there’s one he told me about, which is actually hilarious.  Okay, so you know when you work somewhere, you get to know the security mechanisms that they have in place? Well, Jason worked for this place for a while and he was pretty familiar with the layout of the office and knew exactly how the doors worked in the building. Well, later on when he went to work for another company, he was given the task of breaking into this previous employer. Since he already knew the place well, he knew exactly what to bring. Okay, we need to get into this building.
+
+JASON:	Yeah.
+
+JACK:	Let me pack some equipment for this.
+
+JASON:	Yeah.
+
+JACK:	What do you throw in your bag?
+
+JASON:	Yeah, I mean, you throw your lockpicks, you throw your USB keys that have malware on them, and you throw your blow-up doll.
+
+JACK:	Yeah, a blow-up doll. He knew there was a certain door that had a magnetic lock. Nobody was allowed in or out unless the magnet was disengaged. Well, to get in, you need your badge, which disengages the magnet, but to get out, you didn’t need your badge. You could just open the door by pushing it from the inside. So how does the magnetic lock disengage for people leaving? Well, it unlocks when it senses someone leaving. It had a little electronic eye and could see when something got near the door on the inside, and it would unlock the door. This was one thing he noticed, but he also noticed something else about this door.
+
+JASON:	The gap, the small, small gap between the door and the ground, you could slide something under there.
+
+JACK:	So when he was given this assignment, he packed a blow-up doll and went right up to the door, pulled it out, which it was deflated and flat, and he put it on the ground and slid it under the door. The whole doll was on the other side of the door except for the part that you put your mouth on to blow it up, so he laid on the ground and began blowing up the doll, which was inflating on the other side of the door.
+
+JASON:	That’s exactly what it is, just face on the pavement, blowing up the blow-up doll. Yeah, for sure.
+
+JACK:	Then you hear the click of the door and you jump up and grab it.
+
+JASON:	Yeah, we had two people with us, so the other person would apply some slight pressure as soon as a mock walked through the door, do the same thing – it was a man-trap door, two sets of doors, so did the same thing on the other one and then walk into the physical premises. Once you’re in there, you have access to everything.
+
+JACK:	I love this because to me, this is something I never would have expected someone to bring on a physical pen test. To take pictures of it and to put it in the report must have been hilarious. There was this other physical pen test that he did that also had an interesting bit to it. His objective in this one was to break into the building and see if he could get into the server room. It was him and two others on this assignment. Now, these server rooms are typically more secure than the rest of the building. It usually has a different kind of key to get in and cameras pointed at the door, and more security layers. Well, step one was to get into the building, and there was a locked door to get into the building, so they simply waited until someone was going in and they just went in right behind them and just tailgated them right in through the door.
+
+That worked; they got in the building. They scoped the place out and they figured out where the server room was, and they didn’t see an immediate way in, but they had some ideas. It just wasn’t gonna be easy. The blow-up doll trick was not gonna work here, and you could try picking the lock to get in, but that takes a while, maybe ten minutes or longer, and it’s just too much time to be standing there, probably on camera, trying to force open the door. So, they got an idea to just hide in the office somewhere and wait for everyone to go home for the night. So they ducked into a little room and just waited for a few hours.
+
+JASON:	Until everybody was out, and then the objective was to get into the server room. The server room was segregated from some of the other offices basically with a locked door. We didn’t have the correct technology to clone a card. We weren’t successful to clone a card of an employee to – the right kind of employee to get into the server room, so we were kind of at our limit of trying to reach the objective for the test. So, what we had noticed is that the ceiling tiles – if you look at any building, their ceiling tiles allow some space to run wiring and air conditioning up above. There was a small table outside of the door of the IT server room, which had some flowers on it. So we were like, I wonder if we – if there’s any gap to try to crawl over the wall boundary.
+
+I was probably the lowest on the totem pole at this point with the company I was working at, and so they convinced me to climb up into the ceiling tiles. Climbed up, pulled myself up through the beaming part into the crawlspace above the door divider, and crawled over. I had been pretty careful to keep on the metal divider parts that hold the ceiling tiles on, and those are more stable. They hold a little bit of weight. But on one of them – once I was over into that area, I put my knee down on the wrong area and promptly fell through the ceiling into the server room flat on my stomach. Knocked the air of me. I kinda thought I was gonna die. It’s like, catch my breath, kinda make sure nothing was broken. Luckily nothing was.
+
+JACK:	Did anybody shout, like, you okay over there?
+
+JASON:	Yeah. I mean, yeah. After, I think the response was ‘oh shit’ as soon as they heard the cracking – or the tile crack through. I can’t really remember ‘cause I was falling and still on the floor kinda dazed, but I’m sure one of them cared about my safety at the time. Then they were wondering if I could open the door from the inside, which I could. Reached the objective in the end, which was nice. So, yeah.
+
+JACK:	He was okay; bruised, shook up a bit, but okay, and he was lucky he didn’t fall onto any server racks or sharp objects. He landed just on the empty floor, and he was also lucky he didn’t land on any computers and pulled out cords or caused an outage or something. Anyway, after that, he was able to get into a bunch of those servers and prove how someone can get into their servers. If you step back and look at it, he essentially walked in off the street and got into the computer room and gained full access to their main systems there, and he only broke a few ceiling tiles doing it. The customer was happy to have this report. It wasn’t a big deal to replace the tiles, and this showed them the importance of having walls up in the ceiling to prevent people from getting in that way. Now, even though Jason has done a few physical pen tests, the majority of pen tests he’s done have been network-based. That is, trying to get into the main website or network by just using a computer. One time, he was tasked with hacking into a bank.
+
+JASON:	Yeah, absolutely. So, we were contracted to do a pen test on a large bank, a worldwide-present bank, and we had a big contract with this bank. When I say we, it was me and one other tester at the time working on this project, and one was the network and web portion of the penetration test, and the other was their new mobile app and their mobile application.
+
+JACK:	He was tasked with examining the mobile banking app to see if he can get any customer information or sensitive information from the app itself. Have you tried using these mobile banking apps? Do you get a weird feeling about it like I do? Something about having my bank details in my pocket doesn’t sit right with me. It seems silly since pretty much everything else is in my pocket, but throwing my bank account in there too? I’ve always been very hesitant of this. It’s kind of the same feeling of when I was doing online shopping for the first time and I was asked to give my credit card into a website. I was like, no way am I doing that. Well, years later, that’s the main way I shop now. But my favorite definition of the term ‘information security’ is to enable business to be conducted safely in a hostile environment. The internet is a hostile environment, and clearly if a bank wants to come out with a mobile banking app, they better have someone securing this app so business can be conducted safely. Well, this is what Jason was tasked with doing. He was going to act hostile to the app to see if it exposed any data it shouldn’t.
+
+JASON:	We started doing recon on them. We had found a whole bunch of web servers and stuff like that, and we had their mobile
+
+JACK:	So, I understand what recon is for a physical pen test, right? We’re going to Google Maps, we’re looking on LinkedIn, seeing what kind of employees there are.
+
+JASON:	Yeah.
+
+JACK:	But what kind of recon is there for a web app pen test or a mobile app pen test?
+
+JASON:	Absolutely. So, this is kinda my specialty, I would say, inside of the hacking scene. I’m kind of the godfather of reconnaissance for web applications and I’ve written multiple talks about it. So basically you have to think about a company as – especially a big company like this one, like a bank, they have hundreds if not bordering on thousands of publicly-exposed web servers. You know of the one; you know of www.bank.com, right, that you log into and maybe a couple other ones. So, you have to basically find them. So, the act of recon for a bank or any big web entity is basically finding all of their assets that are connected to the internet. So, there’s a number of methods that you can use to do this. You can use search engines to find other sites of theirs that are online. You can do things like searches for their privacy policy in terms of service, you can brute-force subdomain names. So, if you’re looking at www.bank.com, you can check to see if admin.bank.com exists with the DNS registrars or just trying to resolve it. If you get a response, that means it resolves and you can go to that web page and possible check out sites like that. So, you can brute-force different names if you have a long list of different names that could exist, which we did.
+
+JACK:	So, after finding all the domains, the next step is learning what you can do with those domains. Where are they hosted? What kind of applications are running on them? Do they have any default credentials or known vulnerabilities? A vulnerability scanner can pick up some of this, but it’s also good to kinda look through every domain individually and see if anything pops out at you. Jason was on this engagement with another person on his team, and they decided to split the work. Jason was gonna look at the mobile app while his coworker would continue to look at the domains they found.
+
+JASON:	So, for the first week I was just kind of looking at the app, trying to figure out how it worked, and at that time there was a new feature of the mobile app for this bank that you could take a picture of a check and deposit it.
+
+JACK:	Oh yeah, I’ve seen this feature. Instead of running down to the bank to deposit a check, you can just take a picture of it on your phone and the app will deposit the check into your account. This feature always seemed suspicious to me. You just need a photo of the check, not the actual thing, and you have to enter the amount you’re depositing? What’s stopping you from depositing the same check twice or entering in whatever amount you like? There’s lots to test here, and there must be a whole slough of new attack vectors when a feature like this rolls out, right?
+
+JASON:	I was looking at this app and I was capturing the traffic that went from the mobile app to the servers that took care of the processing of the image of the check.
+
+JACK:	Okay, that’s a good place to start. When you send the bank a check pic, where does it go?
+
+JASON:	I was proxing the web traffic between the phone and the web server with an interception proxy like Burp Suite. So, it’s a common tool for web hackers; it just lets you see the traffic between websites and your browser or websites and your mobile phone. So, what it did first is it took the image of the check and then turned it into binary representation of the image, and then sends it across an API which at the end was uploaded – was reconstructed and put on a server.
+
+JACK:	The server that it went to was an AWS storage bucket. This is Amazon’s Cloud storage. So, check images were being sent to this storage place, and as Jason continued to watch the traffic, he was able to identify exactly which storage bucket on AWS these checks were stored in.
+
+JASON:	So, you could just visit the back end and there was a whole bunch of images of checks just in this directory. So, that is a little bit more of a privacy breach, right?
+
+JACK:	Yeah, so
+
+JASON:	Yeah.
+
+JACK:	Are you talking about an open AWS bucket that anybody can visit?
+
+JASON:	Yes, and because this was the first iteration of this feature and that was when AWS was still in its young years, yeah, absolutely it was an open AWS S3 bucket of check images.
+
+JACK:	Whoa, this is bad. An open AWS bucket means the entire contents of that storage bucket is available for anyone to see. They could see everything on there. Now, in some cases, this is fine. For instance, darknetdiaries.com is hosted on AWS, and the whole bucket is open and visible for anyone to see. But I don’t have any private data on there; there’s no user data, there’s no back end database. Everything is supposed to be visible to the world. But I don’t think it’s a good idea for a bank to store all their cashed checks through the mobile app in an open AWS bucket. Anyone can see all the cashed checks. Jason was looking at these checks and just couldn’t believe it.
+
+JASON:	There was about two million checks in this instance. So, lots of checks, and each one has your address printed on it and your account number, which is considered somewhat private data, and the banks are supposed to protect that. If you’ve ever seen the gif of when Tiger Woods would score a good swing or something like that on a golf course, he does the little – closes his fist and it’s like a little fist bump in the air or whatever. That’s my default pen test move when I find something critical. In this case it exposed names, addresses, account numbers, and transaction history for users using this feature. So, it was a decent-sized finding. It wasn’t the most critical ever, but it was a decent-sized finding.
+
+Really, the first thing is you get kinda hot and sweaty and you’re like alright, sweet, I think I have something. This is really great. You get a little nervous because if you’ve been a pen tester for a long time, you know that they’re probably monitoring the network and at any given time you could lose access to something that’s good, so the first thing you do is take many screenshots of the traffic that you have and the vulnerability, and take – so you have images for your report at the end. So, I started doing all that, started making sure I gathered all the evidence in case I needed to prove out that it actually existed in case they ghost-patched it or something like that. So, yeah, those are the feelings. But when you hit a bank like this, especially one that has a big, big name, it’s pretty exhilarating. Yeah, that’s the whole reason you get into pen testing, is to find big finds like that.
+
+JACK:	Okay, so that’s a big deal. He’ll want to tell them about that for sure and get them to lock down access to that. But he wasn’t done testing; this mobile app was for iPhone, so he grabbed the app off the phone and moved it to a computer to analyze. One of the first things he looked at was the PLIST file. This lists the properties of the app, and here you might find things like server names or information where data is stored on the phone.  But as he looked through the PLIST file, he found some hard-coded credentials, a username and password used to authenticate to something like an API or database.
+
+JASON:	We had found a server that had a default install of Apache, and the manager console was open to the internet, so /manager, /HTML. So, we used credentials that we had found hard-coded in the mobile app, which happens all the time. People hard-code credentials in mobile app PLISTs even to this day and use it just as – on a whim, right? I normally wouldn’t have tried this, but I just tried it to make sure on this manager console to see if maybe the admin was the same of the service or whatever, and it turned out it was. So, we used these hard-coded credentials that were in the mobile app that we were able to reverse out on this website, and got into that.
+JACK:	A-ha; web admin access to the server had been obtained. Amazing. Now, this web server was running something called Tomcat, which as an admin you could upload stuff to it, so Jason just uploaded a payload using Metasploit to it, which gave him command line or operating-system-level access to this web server. It’s one thing to be able to log into a website as an admin, but you gain a whole new level of power when you can get into the operating system as an admin, which is what he was able to do at this bank.
+
+JASON:	Then once you have a foothold like that, we were able to start scanning internal – some internal IPs that connected to that server on more internal IP space of theirs, so inside their company, as well as see a whole bunch of transaction data and customer data on this server that we had exploited. So, it was a second really big finding. It had – I can’t really talk about too much of it ‘cause it’s – a lot of this stuff’s covered under an NDA, so – but it had client names, transaction data, a whole bunch of stuff on there as well. So, we had two ways to really breach customer data on their network.
+
+JACK:	This was quite the report they submitted to the client. The bank was pretty happy that Jason found all these problems, and they got the entire mobile development team on the call and had Jason explain to them exactly what he found and how to fix this. They were surprised, but they all agreed this is very important stuff to fix. We have one more penetration test story from Jason, and you’re gonna want to hear this one, but we’re gonna take a quick break first, so stay with us. Jason Haddix has pen tested hundreds of websites in his professional career, and one stands out as particularly interesting.
+
+JASON:	Okay so, this one’s one of the ones that is interesting. A buddy of mine had taken on some pen test contracts and he had taken on one too many. He basically had hit me up and said hey, do you want to do a moonlight test? A moonlight test is basically I already have a job, but he can give me a contracting gig on testing a site. I said yeah, sure, why not? So, he forwarded me the info for the site and it turned out to be a pornography site. But not just a pornography site; it was a site that had a store for items related to sex toys and stuff like that. It had private cam access to view live workers doing their thing, and then also prerecorded videos. It had messaging systems for you to chat with the cam people and all kinds of stuff. So, it was a big site.
+
+So, he sent over the contract and I took it. The funny parts about this are the first thing I did was I had to go to my wife and be like hey, you’re gonna – you might see some weird stuff on my computer if you walk by. It’s for work, I swear, because there’s just a lot of graphic stuff in the nature of testing this site. So, I had to give her a disclaimer upfront. But yeah, so, I went through my normal methodology starting out, and I registered to the website.  The client had really set a goal of getting access to this one account on the site, and so that was the goal of the majority of it, was to get access to this one account which had a private picture in it. If you get access to the picture, he would have considered that a success because no one was ever supposed to have access to that picture.
+
+JACK:	So this was a user account or a camgirl account or…?
+
+JASON:	It was a camgirl account with messages and pictures associated to it. So, the way the site worked is you could watch live cams, and then pictures that you had taken – kind of like Patreon or any of those other services, you could pay to access specific pictures, too. So, he had set up a picture in the picture section that he wanted us to access, and it would show that we had unauthorized access for one of his – I don’t know if it was a real or a fictitious camgirl.
+
+JACK:	So, it sounds like security so that nobody steals our – nobody gets unauthorized access to the paid content…
+
+JASON:	To the content, yeah.
+
+JACK:	Like, don’t
+
+JASON:	He was really worried about that.
+
+JACK:	It’s kind of a funny objective ‘cause it’s not like, make sure our stuff’s secure.
+
+JASON:	Yeah.
+
+JACK:	It’s hey, make sure no one’s stealing…
+
+JASON:	I guess you could see it…
+
+JACK:	like, going around the paywall.
+
+JASON:	I guess you could see it either way, right? You could see it like he wanted to protect the integrity of the workers and he cared more about the workers than the – or the content creators or – more than the users of the site. But no, no, absolutely, you could see it in the dark way of just like he’s trying to protect his bottom line, for sure. Yeah. So yeah, so I started creating an account,  just my own account to be a content creator on the site. I uploaded some – just random photos into the photo storage area. There was the store as well, so I purchased an item, I sent some DMs, and I’m – this whole time, I’m capturing all this web traffic through a proxy and seeing what calls get made and then just noting down how each one happened. So, the first thing that I noticed was that when you set up your account – and it’s common for some sites to not really care about this – was that the password policy was pretty much whatever you wanted it to be. So, for this site, when you basically signed up to be a user or a creator, it was five characters minimum and no special characters or numbers required. You could just make it whatever you want as long as it was five characters.
+
+JACK:	Okay, so a five-character password minimum is pretty weak. But that’s only a suggestion to improve at this point. It’s like a theoretical issue, and it would be nice if he could demonstrate how that’s a real problem. If he had a list of user accounts, he could try to brute-force their passwords and see if anyone had a five-character password. But he didn’t have that. Next, what he did was he tried to see how the site handled password resets, so he initiated one. What the site did was it reset his password and then e-mailed him this new password.  But he noticed the password that the site created for him was a five-character password, and every time he’d reset the password, it was always five characters. Well, to a hacker like Jason, he started thinking how he could use this to his advantage.
+
+JASON:	Basically you could start a password reset for any user on the site, any e-mail address, and I had – he gave us the e-mail address for the account he wanted us to target. Then you could brute-force the five characters that it was using, because it was minimum five characters and the password reset would only set a five-character password. You could brute-force that in about fifteen minutes. So, I went through every character in about fifteen minutes. There was a small rate limit required, but it wasn’t overly complex to bypass the rate limit. Eventually, right away on the test, broke into the account with the image that he wanted through the password reset and the weak password policy.
+
+JACK:	What’s the tool you used to do that?
+
+JASON:	I did it in Burp Suite, which is a interception proxy.
+
+JACK:	But what you’re doing is you’re going to the website, logging with that e-mail address, and then typing in a random five-character password…
+
+JASON:	Yep.
+
+JACK:	and then again and again and again?
+
+JASON:	Yep. So, every combination of 1, 0 – or 00000 through 99999 and trying every combination between that number, and basically keep on trying over and over again once I did the password reset, because it reset it from what they had chose originally. So, that was the first really easy one.
+
+JACK:	So, Burp – I didn’t know Burp Suite did that, just keep trying passwords.
+
+JASON:	Yeah, so you can – in Burp Suite they have a tool called Intruder, and Intruder basically can capture a web request and then you can highlight a section you want to edit and load a list or a rule to try a whole bunch of different requests. So, basically I captured the request for a regular login, or – yeah, a regular login, and then highlighted the area where the password was and then told it to try everything between 00000 and 99999. It just ran all over those requests, added a small little wait in-between each one, and then eventually you know which one hits when there’s a difference response time from the server. So, you just wait until you see the different response time from the server.
+
+JACK:	Well, that was easy. He was able to gain access to the account that he was asked to try to get into. This is fascinating to me because by and large, this is the top thing I get people asking me to help them hack. I am constantly getting hit up on my DMs of people wanting me to help them hack into something, and I’m like ooh, what are we gonna do, hack into a bank or free someone from prison? They’re like oh no, sir, I need you to hack into my girlfriend’s account on social media. There’s always a ton of people who are trying to get into someone else’s account. Here’s a rather easy way to just get into anyone’s account on this porn site; reset their password, then brute-force it. It’s just a five-character password and it’ll take fifteen minutes to do. Imagine taking over the accounts of the top earners on this site.
+
+JASON:	What’s interesting is that password complexity is a really touchy topic for websites, right? Your bank obviously has password complexity and makes you add special characters and a minimum number of characters and stuff like that. But content sites that basically – they don’t deem access to your account super-private, or they deem it private but they want the least amount of friction for users to get into their account. Sometimes they choose this on purpose. When we talked to the guy on the out-call, which is several steps ahead ‘cause we did many other things to this site, but when we talked to this guy on the out-call, he knew that the password complexity was weak and he had kept it weak on purpose because it offered less friction for his users to get into their accounts. So it was like a personal thing. So, he ended up having to change the complexity of the password requirement for users and for content creators, and then also had to change the flow for the Forgot Password as well so it wouldn’t just set one; it would give you the link like normal sites do and then send you to a page to change your own password to something you want to set it to.
+
+JACK:	Okay, so if you could reset the password and take over any user account on this site, which user should you take control over next?
+
+JASON:	We found our guy’s admin account as well.  It was literally admin@thecompany.com, and we reset his password and logged into his account, which had superuser access as well. So, we could see pretty much the back end of the site as well from a management point of view, which was really interesting ‘cause he had way more functions available to him than anybody else.
+
+JACK:	I mean, he would see that his password was reset. That’s strange; I didn’t do that.
+
+JASON:	Not if you do it at 3:00 AM his time.
+
+JACK:	Is that what you did?
+
+JASON:	Yeah, yeah. Yeah, so you do it – we waited until late at night. So, yeah.
+
+JACK:	Tricky.
+
+JASON:	Yeah.
+
+JACK:	But that’s what you gotta do.
+
+JASON:	That’s what you gotta do, yeah.
+
+JACK:	He also found a pretty clever bug about uploading images. This site allowed users, especially camgirls, to upload content. Jason made an account and uploaded an image and watched how the server handled it. Well, it tagged him in the upload request. So, he tried to upload another image, but this time tagging another user to see if that did anything. The server took that as another user has uploaded this. So, he found a way to upload images to other users’ accounts on the site, which is interesting; you could deface someone else’s account this way, putting all kinds of images and stuff on their account that others would see when they visited it.
+
+JASON:	We had found a couple of cross-site scripting bugs, and then we had also managed to accomplish seeing the paid streams for the users without paying for them. You could look at the source code of the HTML when you were attempting to look at somebody’s paid stream. Normally you would click a button and pay with your credit card to access the paid stream. There was a parameter in there called debug that was set to False. When you set it to True, you were able to access the stream without paying for it. So, that was another way that we could bypass the paid nature. So at this point, we could reset anybody’s password and take over their account. We had access to the back end admin site, we had cross-site scripting, we could view streams without paying for them.
+
+We pretty much had everything that we kinda thought, but then also in the store – we had been working on the store and towards the end of the week, we had found that there was an SQL injection bug that allowed us to dump the complete database, purchases and credit card data for everything that had been ordered on his store that was associated to the site, which is not only just sensitive ‘cause you have credit card data, but also sensitive because these are very sensitive purchase of a very sensitive nature. So, we had all that transaction data as well. So, that was that test, and there’s a lot of things I learned from that test about that industry and stuff like that. It was really interesting and cool.
+
+JACK:	Huh, sounds like this site had a lot of security problems. You might not immediately think of why it’s so important to secure a porn site, but one of the other things that this site allowed users to do was hook up with each other. It’s reminiscent of this scandal.
+
+HOST:	A major hack tonight is threatening to expose embarrassing information on millions of people around the world. They all signed up for a website named Ashley Madison, which helps married people find people who want to cheat with them.
+
+JACK:	This was a news clip from CBS Los Angeles. The site Jason worked on was a competitor to Ashley Madison, and he did this pen test just before Ashley Madison had their breach. If it wasn’t for Jason finding these security issues, this site could have easily been the story on everyone’s nightly news. The reason why that story was so scandalous was because it was very embarrassing for a lot of high-profile people who were found to be users on the site. In fact, I believe two people committed suicide for having their details exposed in the Ashley Madison breach. So, it’s wild to think how Jason may have really saved not only the reputation of this company by detecting these bugs before someone else did, but also potentially saving the lives of some of its users. Maybe that’s a stretch. If you were Jason at the early 20’s on ShadowCrew and you saw – you looked into the future, a crystal ball, and you saw Jason doing that sort of stuff when he’s older, I wonder what young Jason would have thought.
+
+JASON:	I mean, he would have thought it was pretty cool, honestly. He hadn’t had years of professional experience, though, to temper his excitement and do bad things. So, yeah, I mean…
+
+JACK:	Yeah, it’s an interesting perspective.
+
+JASON:	It is.
+
+JACK:	You looking back at that young Jason, young Jason doing dumb stuff, but young Jason looking up at older Jason; older Jason’s doing really cool stuff, yet young Jason thinks he’s doing cool stuff.
+
+JASON:	Yeah, yeah. Yeah, so…
+
+JACK:	And it’s weird to think that young Jason thinks young Jason is cool and old Jason is cool, but old Jason thinks old Jason’s cool but young Jason’s not.
+
+JASON:	Yeah. That was a lot of Jason, but yeah, absolutely. Absolutely true. I’m lucky I have that perspective now, though, right, and got paid well for that test. So, yeah, it is really – I hate to be a shill, right, but penetration testing and security testing nowadays and having all of the protection we have and being able to do it as a job is one of the most coolest fucking jobs that you can have. I’ll never get over it. A lot of people talk about oh, you graduate out of it. I don’t think I will ever graduate out of be – wanting to pop systems in some way. So, yeah.
+
+JACK: thank you to Jason Haddix for coming on the show and telling us these stories. You can follow him on Twitter; his name there is @JHaddix. This show is made by me, the slow poker, Jack Rhysider. This episode was assembled by Tristan Ledger and mixing done by Proximity Sound. Our theme music is done by the abnormie, Breakmaster Cylinder. The only dates I get these days are updates. This is Darknet Diaries.
